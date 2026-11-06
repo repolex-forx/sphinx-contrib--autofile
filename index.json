@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "autofile",
+  "versions": [
+    {
+      "commit": "bf04c27133e6f738c8b9d50c73d9186b95134596",
+      "tag": "",
+      "parsed_at": "2026-11-06T18:26:48.360031+00:00"
+    }
+  ]
+}
